@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-filepath = '/content/medical_examination.csv'
+filepath = 'https://github.com/DjSelorm/boilerplate-medical-data-visualizer/blob/main/medical_examination.csv'#'/content/medical_examination.csv'
 # 1
 df = pd.read_csv(filepath)
 
